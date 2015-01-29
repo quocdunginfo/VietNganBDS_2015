@@ -1,0 +1,163 @@
+a.vn_headerlinks { 
+	color: #817F7F;	
+}
+
+.top-left { 
+	font-size: 12px;
+	color : #817F7F;
+	padding-top: 5px;
+	padding-bottom: 5px;	
+	text-align: center;
+}
+.top-right { 	
+	font-size: 14px;
+	color : #000000;
+	text-align: center;	
+}
+.vn_invest {
+	width: 22%;	
+	padding-right: 0px;
+	padding-left: 17px;
+	border-right: 1.5px solid #817F7F;
+}
+.vn_homes {
+	width: 20%;
+	padding: 0px;
+	border-right: 1.5px solid #817F7F;
+}
+.vn_cash {
+	width: 18%;
+	padding: 0px;	
+}
+.vn_right_ht{
+	padding: 0px;
+	border-right: 1.5px solid #817F7F;
+}
+p.vn_hotro{	
+	margin-top: 5px;
+	margin-bottom: 5px;	
+}
+.vn_right_nn{
+	padding: 0px;
+	width: 102px;
+	height: 30px;	
+	padding-top: 5px;
+	padding-bottom: 5px;	
+	border-right: 1.5px solid #817F7F;
+}
+.vn_right_fa{
+	padding: 0px;
+	height: 30px;
+	width: 10%;
+	padding-top: 5px;
+	padding-bottom: 5px;	
+	border-right: 1.5px solid #817F7F;
+}
+.vn_right_go{
+	padding: 0px;
+	width: 10%;
+	height: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;	
+}
+.vn_nn_btn{
+	padding: 0;
+	border: none;
+	background: none;
+}
+.vn_nav{	
+	height:112px;		
+}
+.vn_logo{
+	padding-left: 0px;
+	border-top: 1.5px solid #817F7F;
+	border-bottom: 1.5px solid #817F7F;
+}
+.navbar-brand{
+	padding-left: 0px;
+}
+.logo{	
+	height: 80px;
+	width: 210px;	
+}
+.vn_menu{
+	height:112px;		
+	border-top: 1.5px solid #817F7F;
+	border-bottom: 1.5px solid #817F7F;	
+}
+.menu{	
+	padding: 35px;
+}
+.vn_menu_btn{
+	font-size: 17px;
+	border-style:none;
+}
+.vn_banner{
+	min-height: 150px;	
+}
+.banner{	
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.vn_dichvu{
+	text-align: center;
+}
+.vn_dichvu_img{	
+	width: 140px;
+	height: 140px;
+}
+.river{	
+	border: 1px solid #817F7F;
+	padding-left:15px;
+	padding-right: 15px;
+}
+.vn_sanpham_img{		
+	width: 300px;
+	height: 200px;
+}
+.vn_sanpham{
+	text-align: center;
+	width: 100%;
+	height: auto;
+}
+.vn_sanpham_text{
+	text-align: center;
+}
+.vn_tuvan{
+	min-height: 250px;	
+}
+.vn_tuvan_img{
+	height: 1cm;
+	width: 1cm;
+	margin: auto;
+	margin-top: 30px;
+	border: 1px solid #37d6f7;	
+}
+.vn_tuvan_text{	
+	background-color: #b6b4b4;
+	opacity: 0.4;
+	height: 50px;
+	height: 150px;
+	width: 300px;
+	margin: auto;	
+	border: 1px solid #37d6f7;
+	margin-top: -0.5cm;
+	padding-top: 35px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.tuvan_text{
+	text-align: center;
+	font-size: 17px;
+	color : #000000;
+}
+.footer{
+	background-color: #918d86;
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	color : #ffffff;
+	opacity: 0.5;
+	padding-top: 30px;
+}
